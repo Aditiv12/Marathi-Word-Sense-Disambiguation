@@ -9,7 +9,7 @@ import time
 from google.api_core.exceptions import ResourceExhausted, GoogleAPIError
 
 #API key
-genai.configure(api_key="AIzaSyDPLTwtk4C3C109Eb_5cp7fVCyHi5obekY")
+genai.configure(api_key="")
 
 # Paths to model, tokenizer, and dataset
 model_path = "Model/finetuned"
