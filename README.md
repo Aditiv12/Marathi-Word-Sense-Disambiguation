@@ -15,6 +15,7 @@ This project implements a transformer-based Word Sense Disambiguation (WSD) syst
 📂 Project Structure
 ├── Data/
   └── Ambiguous Dataset.tsv
+  
 ├── Model/
   ├── finetuned/ 
     └── config.json
