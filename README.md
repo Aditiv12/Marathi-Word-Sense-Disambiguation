@@ -20,12 +20,14 @@ This project implements a transformer-based Word Sense Disambiguation (WSD) syst
   ├── finetuned/ 
     └── config.json
     └── model.safetensors #Due to GitHub's limitation on file upload size, we cannot upload files completely. 
+    
   ├── tokenizer/ 
     └── added_tokens.json
     └── special_tokens_map.json
     └── spiece.model
     └── tokenizer_config.json
     └── tokenizer.json
+    
 ├── be.py
 
 
