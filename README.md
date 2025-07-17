@@ -40,5 +40,7 @@ Evaluation: Accuracy, Precision, Recall, F1-Score (macro averaged)
 
 ⚠️ Note: Due to size constraints, the full training tensors and model checkpoints are not uploaded. You can regenerate them locally by fine-tuning the model according to your requirements.
 
+
+The architecture illustrated outlines the proposed approach.
 <img width="321" height="497" alt="image" src="https://github.com/user-attachments/assets/974bc582-b589-416d-bb5f-6dbc2e830848" />
 
